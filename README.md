@@ -5,4 +5,4 @@ But if you like it, please feel free to fork it, modify it, and submit your fixe
  
 Visit us on http://xoops.org
  
-![Theme Preview](/large_7dana-Xred_11556_780b0.jpg) 
+![Theme Preview](/large_7dana-soft_v2_14_99cc2.jpg) 
